@@ -13,7 +13,7 @@ pkg install git
 ```
 4. Clone this repository
 ```
-git clone https://github.com/CHEN-LITE/CHEN-LITE.git
+git clone https://github.com/FlutterGenerator/CHEN-LITE.git
 ```
 5. Open CHEN-LITE_OBB directory and run setup.
 ```
